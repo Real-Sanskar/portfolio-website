@@ -28,7 +28,7 @@ It’s simple, but it helped me revise concepts like Flexbox, Grid, responsive d
 ---
 
 ## Live Demo
-[Click here to view](https://yourusername.github.io/portfolio)
+[Click here to view](https://real-sanskar.github.io/portfolio-website/)
 
 ---
 
