@@ -44,8 +44,8 @@ If you want to connect:
 - GitHub: [My GitHub](https://github.com/Real-Sanskar)
 
 ## Screenshots 
-<img width="1885" height="906" alt="Screenshot 2026-06-26 212828" src="https://github.com/user-attachments/assets/f64bf167-6063-4bb4-9b39-5dacbf46b0cb" />
-<img width="1887" height="906" alt="Screenshot 2026-06-26 212902" src="https://github.com/user-attachments/assets/f0d74a7c-069b-4b1f-91b3-d33396428d82" />
-<img width="1896" height="908" alt="Screenshot 2026-06-26 212930" src="https://github.com/user-attachments/assets/06a90fed-4dd3-44f8-a108-32ebf00670d1" />
-<img width="1885" height="901" alt="Screenshot 2026-06-26 212948" src="https://github.com/user-attachments/assets/5403b273-3a6a-4ba9-b54b-8beb888d7b7c" />
-<img width="1886" height="902" alt="Screenshot 2026-06-26 213004" src="https://github.com/user-attachments/assets/73c5d0b0-8279-4f4c-8c9c-fbce1a01ee50" />
+<img width="1886" height="902" alt="Screenshot 2026-06-26 213004" src="https://github.com/user-attachments/assets/fe27b184-4479-4d9a-81ab-eedb649d49dc" />
+<img width="1885" height="901" alt="Screenshot 2026-06-26 212948" src="https://github.com/user-attachments/assets/2cb032ea-1141-49f6-a330-803bf02424ae" />
+<img width="1896" height="908" alt="Screenshot 2026-06-26 212930" src="https://github.com/user-attachments/assets/c3d45333-afa0-4e2b-b40e-66c5e6c716ae" />
+<img width="1887" height="906" alt="Screenshot 2026-06-26 212902" src="https://github.com/user-attachments/assets/d6260e7e-ffaa-45c0-9234-085e33783bf1" />
+<img width="1885" height="906" alt="Screenshot 2026-06-26 212828" src="https://github.com/user-attachments/assets/9a126e64-042b-401b-9b0d-0f5e78f2c4ee" />
